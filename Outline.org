@@ -1,0 +1,43 @@
+* Notation
+  + Jacobian Matrix
+  + Hessian Matrix 
+
+* Introduction
+Easy Problem: problems that are intellectually difficult for human beings but relatively straightforward for computers—problems that can be described by a list of formal, mathematical rules.
+Hard Problem: tasks that are easy for people to perform but hard for people to describe formally—problems that we solve intuitively, that feel automatic, like recognizing spoken words or faces in images.
+Use machine learning to discover not only the mapping from representation to output but also the representation itself.
+- many of the factors of variation influence every single piece of data we are able to observe.
+
+** Perspective on deep learning
+- learning the right representation for the data
+- learn a multi-step computer program
+  + Networks with greater depth can execute more instructions in sequence.
+  + The representation also states information that helps to execute a program that can make sense of the input.
+
+** Measuring the depth of a model
+- the number of sequential instructions (different depth with the same function)
+- the depth of the graph describing how concepts are related to each other.
+
+** Historical Trends in Deep Learning
+- Increasing Dataset Sizes
+- Increasing Model Sizes
+  + Since the introduction of hidden units, artificial neural networks have doubled in size roughly every 2.4 years.
+- Increasing Accuracy, Complexity and Real-World Impact
+
+* Linear Algebra
+The Matrix Cookbook
+** Scalars, Vectors, Matrices and Tensors
+** Multiplying Matrices and Vectors
+** Identity and Inverse Matrices
+** Linear Dependence and Span
+** Norms
+** Special Kinds of Matrices and Vectors
+** Eigendecomposition
+** Singular Value Decomposition
+** The Moore-Penrose Pseudoinverse
+** The Trace Operator
+** The Determinant
+** Example: Principal Components Analysis
+
+* Probability and Information Theory
+
